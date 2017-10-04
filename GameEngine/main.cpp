@@ -17,6 +17,7 @@ using namespace GameEngine;
 
 int main(int argc, char** argv)
 {
+	//GitTEst
 	Terrain* terrain = new Terrain(&Position(0, 100), "Terrain3.png");
 	Terrain* terrain2 = new Terrain(&Position(400, 100), "Terrain2.png");
 	Terrain* terrain3 = new Terrain(&Position(700, 100), "Terrain.png");
